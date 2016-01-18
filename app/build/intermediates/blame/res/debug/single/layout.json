@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\Http\\7_3_TouchImageHandling\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signature_view.xml",
+        "source": "C:\\AndroidStudioProjects\\Http\\7_3_TouchImageHandling\\app\\src\\main\\res\\layout\\signature_view.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Http\\7_3_TouchImageHandling\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_multi_event_layout.xml",
+        "source": "C:\\AndroidStudioProjects\\Http\\7_3_TouchImageHandling\\app\\src\\main\\res\\layout\\simple_multi_event_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Http\\7_3_TouchImageHandling\\app\\build\\intermediates\\res\\merged\\debug\\layout\\multi_touch_layout.xml",
+        "source": "C:\\AndroidStudioProjects\\Http\\7_3_TouchImageHandling\\app\\src\\main\\res\\layout\\multi_touch_layout.xml"
+    }
+]

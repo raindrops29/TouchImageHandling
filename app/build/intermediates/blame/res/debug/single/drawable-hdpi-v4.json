@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\Http\\7_3_TouchImageHandling\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\taxiicon.png",
+        "source": "C:\\AndroidStudioProjects\\Http\\7_3_TouchImageHandling\\app\\src\\main\\res\\drawable-hdpi\\taxiicon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Http\\7_3_TouchImageHandling\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_banned.png",
+        "source": "C:\\AndroidStudioProjects\\Http\\7_3_TouchImageHandling\\app\\src\\main\\res\\drawable-hdpi\\button_banned.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Http\\7_3_TouchImageHandling\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button.png",
+        "source": "C:\\AndroidStudioProjects\\Http\\7_3_TouchImageHandling\\app\\src\\main\\res\\drawable-hdpi\\button.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Http\\7_3_TouchImageHandling\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tara_ji_yeon.png",
+        "source": "C:\\AndroidStudioProjects\\Http\\7_3_TouchImageHandling\\app\\src\\main\\res\\drawable-hdpi\\tara_ji_yeon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Http\\7_3_TouchImageHandling\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back_ground_image.png",
+        "source": "C:\\AndroidStudioProjects\\Http\\7_3_TouchImageHandling\\app\\src\\main\\res\\drawable-hdpi\\back_ground_image.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Http\\7_3_TouchImageHandling\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "C:\\AndroidStudioProjects\\Http\\7_3_TouchImageHandling\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Http\\7_3_TouchImageHandling\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_xml.xml",
+        "source": "C:\\AndroidStudioProjects\\Http\\7_3_TouchImageHandling\\app\\src\\main\\res\\drawable-hdpi\\btn_xml.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Http\\7_3_TouchImageHandling\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_clicked.png",
+        "source": "C:\\AndroidStudioProjects\\Http\\7_3_TouchImageHandling\\app\\src\\main\\res\\drawable-hdpi\\button_clicked.png"
+    }
+]
